@@ -1,16 +1,16 @@
-## Welcome to my profile
+## Welcome to My Profile
 
-### What I Do
-##### &nbsp;&nbsp; ★ &nbsp; Applied Mathematics
+### What I do
+- ⭐ Applied Mathematics  
 
-### What I want to do
-##### &nbsp;&nbsp; ★ &nbsp; CLI-based music player
-##### &nbsp;&nbsp; ★ &nbsp; DNN Guitar-tab generator
-##### &nbsp;&nbsp; ★ &nbsp; Guitar AI sound masking tool
-##### &nbsp;&nbsp; ★ &nbsp; Learn rust
+### What I'm working on  
+- 🎵 CLI-based music player  
+- 🎸 DNN Guitar-tab generator  
+- 🔊 Guitar AI sound masking tool  
+- 🦀 Learning Rust  
 
-### What I like
-##### &nbsp;&nbsp; ★ &nbsp; C
-##### &nbsp;&nbsp; ★ &nbsp; C++
-##### &nbsp;&nbsp; ★ &nbsp; Playing guitar
-##### &nbsp;&nbsp; ★ &nbsp; Optimizing stuff
+### What I like  
+- 💻 C / C++
+- 🐧 Linux (Arch)
+- 🎸 Playing guitar  
+- ⚡ Optimizing stuff  
